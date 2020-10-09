@@ -3,7 +3,7 @@
 干脆把他们都剥出来，记录一下，也方便下需要的人。2020/09/30
 
 
-#使用
-1.下载代码
-2.解压SuperPlayerDemo/SuperPlayerDemo/TXLiteAVSDK_Player.framework.zip文件
-3.Run
+# 使用
+1.下载代码<br>
+2.解压SuperPlayerDemo/SuperPlayerDemo/TXLiteAVSDK_Player.framework.zip文件<br>
+3.Run<br>
